@@ -13,4 +13,5 @@ TOKEN=discord-bot-token
 GUILD_ID=discord_guild_id
 ```
 
-made for the Only Dash event by kingsman265
+Made for the Only Dash event by Kingsman265 \
+Please note that this bot is hardcoded to roles on his  discord server.
